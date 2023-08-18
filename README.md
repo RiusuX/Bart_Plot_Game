@@ -39,6 +39,7 @@ La aplicación móvil permite la interacción con el proyecto y muestra los resu
 El circuito de comunicación está diseñado para conectar el microcontrolador y el módulo Bluetooth para una comunicación efectiva con la aplicación móvil.
 
 ![El Circuito Implementado en la Protoboard](img/WhatsApp Image 2023-08-17 at 5.33.41 PM.jpeg)
+![El Circuito Implementado en la Protoboard](img/WhatsApp Image 2023-08-17 at 5.33.41 PM.jpeg)
 
 ![Circuito Implementado de Comunicación](img/WhatsApp Image 2023-08-17 at 5.30.41 PM.jpeg)
 
