@@ -22,6 +22,28 @@ Para ejecutar el proyecto, considera lo siguiente:
 2. Sigue las instrucciones proporcionadas en la aplicación.
 3. Utiliza el módulo de conexión/desconexión Bluetooth para comenzar a resolver las preguntas basadas en los resultados del juego.
 
+### Descripción de la Estructura
+
+La estructura está diseñada en acrílico en forma de un rectángulo 3D con un ancho de 30 cm y un largo de 35 cm. Contiene siete carriles con una tapa, y cada carril tiene cuatro lugares para colocar las bolas. Hay un conjunto de 4 sensores dispuestos en una regleta vertical en el lado derecho de la caja (columna 1). El usuario debe ubicar la regleta en cada columna, esperando que detecte la presencia de las pelotas hasta llegar al lado izquierdo de la caja (columna 7).
+
+![Caja y Estructura](img/WhatsApp Image 2023-08-17 at 5.31.23 PM.jpeg)
+
+### Aplicación Móvil
+
+La aplicación móvil permite la interacción con el proyecto y muestra los resultados del juego.
+
+![Aplicación Móvil](img/WhatsApp Image 2023-08-17 at 5.30.41 PM (1).jpeg)
+
+### Circuito Implementado de Comunicación
+
+El circuito de comunicación está diseñado para conectar el microcontrolador y el módulo Bluetooth para una comunicación efectiva con la aplicación móvil.
+
+![El Circuito Implementado en la Protoboard](img/WhatsApp Image 2023-08-17 at 5.33.41 PM.jpeg)
+
+![Circuito Implementado de Comunicación](img/WhatsApp Image 2023-08-17 at 5.30.41 PM.jpeg)
+
+Para más detalles, visita las carpetas correspondientes.
+
 Este repositorio contiene los archivos necesarios para programar el microcontrolador y la aplicación móvil para disfrutar del juego de Gráfico de Barras. ¡Diviértete y aprende al mismo tiempo!
 
 Para más detalles, visita la carpeta correspondiente.
