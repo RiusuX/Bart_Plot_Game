@@ -26,7 +26,7 @@ Para ejecutar el proyecto, considera lo siguiente:
 
 La estructura está diseñada en acrílico en forma de un rectángulo 3D con un ancho de 30 cm y un largo de 35 cm. Contiene siete carriles con una tapa, y cada carril tiene cuatro lugares para colocar las bolas. Hay un conjunto de 4 sensores dispuestos en una regleta vertical en el lado derecho de la caja (columna 1). El usuario debe ubicar la regleta en cada columna, esperando que detecte la presencia de las pelotas hasta llegar al lado izquierdo de la caja (columna 7).
 
-![Caja y Estructura](img/WhatsApp Image 2023-08-17 at 5.31.23 PM.jpeg)
+![Caja y Estructura](img/img/WhatsApp Image 2023-08-17 at 5.30.41 PM (1).jpeg)
 
 ### Aplicación Móvil
 
