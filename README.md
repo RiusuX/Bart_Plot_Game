@@ -1,4 +1,4 @@
-# Juego de Gráfico de Barras - Proyecto
+# Bar Plot Game - Proyecto
 
 ## Carpetas
 
